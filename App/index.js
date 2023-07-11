@@ -83,6 +83,7 @@ const styles = StyleSheet.create({
     fontFamily: 'cursive',
     fontWeight: 'bold',
     color: 'red',
+   
     
   },
 });
